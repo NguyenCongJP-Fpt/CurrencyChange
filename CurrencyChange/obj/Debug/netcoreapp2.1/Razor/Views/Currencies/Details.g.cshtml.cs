@@ -104,7 +104,7 @@ using CurrencyChange.Models;
             WriteLiteral("\r\n        </dd>\r\n    </dl>\r\n</div>\r\n<div>\r\n    ");
             EndContext();
             BeginContext(538, 54, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a90da2eefaef407681bf4ea605a1dfea", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bf783ceced1d41daaf5cce7d58b220d6", async() => {
                 BeginContext(584, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -139,7 +139,7 @@ using CurrencyChange.Models;
             WriteLiteral(" |\r\n    ");
             EndContext();
             BeginContext(600, 38, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "50e1a4007ce242ada474567034d16414", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6ab926bb062c4ffe84a2da45960d4273", async() => {
                 BeginContext(622, 12, true);
                 WriteLiteral("Back to List");
                 EndContext();
